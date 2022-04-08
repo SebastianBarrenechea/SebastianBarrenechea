@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! Welcome to my Github, I'm DarkThunder!</h2>
+<h2 align="center">👋 Hello! Welcome to my Github, I'm Sebas!</h2>
 <p align="center">
 <table align="center">
    <tr>
@@ -6,16 +6,15 @@
          <p align="center">    
          <img align="center" src="https://i.imgur.com/E029hYg.png" width="50%"/></a><br/>
          <br/><br/>
-            <a href="https://discord.gg/gcafe"><img align="center" src="https://discordapp.com/api/guilds/770993454703575060/widget.png?style=banner2" alt="Discord Banner2"/></a>
+            <a href="https://discord.gg/gcafe"><img align="center" src="https://discordapp.com/api/guilds/955934316091809862/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
-         - 🔭 I’m currently working on <strong><a href="https://hydrabot.fun">Hydra Bot - Discord Bot</a></strong> -
+         - 🔭 I’m currently working on <strong><a href="https://top-sebas.sabarrenechea.repl.co">Top sebas Uptime</a></strong> -
          <br/>
-         - 🌱 I’m currently learning <strong>Javascript</strong> -
+         - 🌱 I’m currently learning <strong>Phyton</strong> -
          <br/>
-         - 💬 Ask me about <strong>JavaScript, Html, CSS, Learning More Languages</strong> -
+         - 💬 Join my discord server where you will find many project codes</strong> -
          <br/>
-         - 📫 How to reach me: <a href="https://dsc.gg/gcafe">DarkThunder#1899</a> on Discord -
-         <br/>
+         - 📫 Find my projects in: <a href="https://dsc.gg/rtR8VxWFyj">
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas-4028&theme=radical&hide_border=true" />
          </p>  
