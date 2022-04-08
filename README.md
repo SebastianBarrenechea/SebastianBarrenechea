@@ -21,7 +21,7 @@
       </td>
       <td>
       <br/><br/>
-      <h2 align="center">📊 DarkThunder's Github Statistics 📊 </h2>   
+      <h2 align="center">📊 Sebas Github Statistics 📊 </h2>   
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Sebas-4028&theme=radical&hide_border=true" />   
          <br/><br/><br/>
