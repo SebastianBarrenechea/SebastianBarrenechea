@@ -6,7 +6,7 @@
          <p align="center">    
          <img align="center" src="https://i.imgur.com/E029hYg.png" width="50%"/></a><br/>
          <br/><br/>
-            <a href="https://discord.gg/gcafe"><img align="center" src="https://discordapp.com/api/guilds/955934316091809862/widget.png?style=banner2" alt="Discord Banner2"/></a>
+            <a href="https://discord.gg/rtR8VxWFyj"><img align="center" src="https://discordapp.com/api/guilds/955934316091809862/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
          - 🔭 I’m currently working on <strong><a href="https://top-sebas.sabarrenechea.repl.co">Top sebas Uptime</a></strong> -
          <br/>
