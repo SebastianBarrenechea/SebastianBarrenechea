@@ -14,7 +14,7 @@
          <br/>
          - 💬 Join my discord server where you will find many project codes</strong> -
          <br/>
-         - 📫 Find my projects in: <a href="https://dsc.gg/rtR8VxWFyj">
+         - 📫 Find my projects in: <a href="https://discord.gg/rtR8VxWFyj">
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas-4028&theme=radical&hide_border=true" />
          </p>  
