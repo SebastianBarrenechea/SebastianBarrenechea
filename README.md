@@ -1,20 +1,13 @@
-<h2 align="center">👋 Hello! Welcome to my Github, I'm Sebas!</h2>
+<h2 align="center">👋 Hello! Welcome to my Github, I'm Sebastian!</h2>
 <p align="center">
 <table align="center">
    <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://i.imgur.com/E029hYg.png" width="50%"/></a><br/>
+         <img align="center" src="https://avatars.githubusercontent.com/u/115416628" width="50%"/></a><br/>
          <br/><br/>
-            <a href="https://discord.gg/rtR8VxWFyj"><img align="center" src="https://discordapp.com/api/guilds/955934316091809862/widget.png?style=banner2" alt="Discord Banner2"/></a>
-         <br/><br/>
-         - 🔭 I’m currently working on <strong><a href="https://top-sebas.sabarrenechea.repl.co">Top sebas Uptime</a></strong> -
+         - 🔭 I’m currently working on <strong><a href="https://webzignet.ml">Webzignet</a></strong> -
          <br/>
-         - 🌱 I’m currently learning <strong>Phyton</strong> -
-         <br/>
-         - 💬 Join my discord server where you will find many project codes</strong> -
-         <br/>
-         - 📫 Find my projects in: <a href="https://discord.gg/rtR8VxWFyj">
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas-4028&theme=radical&hide_border=true" />
          </p>  
