@@ -9,7 +9,7 @@
          - 🔭 I’m currently working on <strong><a href="https://webzignet.ml">Webzignet</a></strong> -
          <br/>
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas-4028&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBarrenechea&theme=radical&hide_border=true" />
          </p>  
       </td>
       <td>
