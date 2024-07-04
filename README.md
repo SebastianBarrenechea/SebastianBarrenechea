@@ -4,7 +4,7 @@
    <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://avatars.githubusercontent.com/u/115416628" width="50%"/></a><br/>
+         <img align="center" src="https://avatars.githubusercontent.com/u/102995074" width="50%"/></a><br/>
          <br/><br/>
          - 🔭 I’m currently working on <strong><a href="https://webzignet.ml">Webzignet</a></strong> -
          <br/>
